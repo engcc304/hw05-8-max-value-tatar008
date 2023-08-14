@@ -36,4 +36,5 @@ int main() {
     }else{
         printf("The 3rd Number is the greatest among three", c);
     }
+    return 0;
 }
